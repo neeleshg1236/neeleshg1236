@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**neeleshg1236/neeleshg1236** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi 👋 I'm Neelesh
+ 
+I'm a CS major at Texas A&M who enjoys building systems and doing research. Some of what I've done, and what I'm doing now:
+ 
+- 💻 Software Engineering Intern @ Lockheed Martin Aeronautics
+- 🧠 ML Researcher @ the DIVE Lab, Texas A&M, working on diffusion language models
+- 🛠️ Tech Officer @ Texas A&M Computing Society
+## 📫 Reach me
+ 
+[linkedin.com/in/neelesh-garg](https://linkedin.com/in/neelesh-garg) · neeleshg236@gmail.com
