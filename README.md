@@ -1,4 +1,4 @@
-# Hey, I'm Neelesh
+# Hi there👋
 
 I'm a CS major at Texas A&M who enjoys building systems. Some of what I've done, and what I'm doing now:
 
