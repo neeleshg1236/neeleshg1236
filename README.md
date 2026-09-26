@@ -1,10 +1,14 @@
 # Hi there👋
 
-I'm a CS major at Texas A&M who enjoys building systems. Some of what I've done, and what I'm doing now:
+I'm a CS major at Texas A&M who enjoys building systems. 
 
-- 💻 Software Engineering Intern @ Lockheed Martin Aeronautics
+Currently:
+- 📝 Machine Learning Researcher, DIVE Lab
 - 📚 Teaching Assistant, Texas A&M College of Engineering
 - 🛠️ Tech Officer @ Texas A&M Computing Society
+
+Previously:
+- 💻 Software Engineering Intern @ Lockheed Martin Aeronautics
 - 🏆 Many hackathons, including Cal Hacks (UC Berkeley) and TAMUhack
 
 ## 📫 Reach me
