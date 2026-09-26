@@ -5,7 +5,7 @@ I'm a CS major at Texas A&M who enjoys building systems. Some of what I've done,
 - 💻 Software Engineering Intern @ Lockheed Martin Aeronautics
 - 📚 Teaching Assistant, Texas A&M College of Engineering
 - 🛠️ Tech Officer @ Texas A&M Computing Society
-- 🏆 Many hackathons, including Cal Hacks and TAMUhack
+- 🏆 Many hackathons, including Cal Hacks (UC Berkeley) and TAMUhack
 
 ## 📫 Reach me
 
